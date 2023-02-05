@@ -1,5 +1,5 @@
 # Axial LOB: High Frequency Trading with Axial Attention
-In this repository is implemented the pytorch implementation of the paper [Axial LOB: High Frequency Trading with Axial Attention](https://arxiv.org/pdf/2212.01807.pdf).
+In this repository you can find the pytorch implementation of the paper [Axial LOB: High Frequency Trading with Axial Attention](https://arxiv.org/pdf/2212.01807.pdf) by Damian Kisiel and Denise Gorse.
 
 In the notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
 
