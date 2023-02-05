@@ -5,4 +5,4 @@ In the notebook is proposed all the machine learning pipeline, starting from the
 
 # Usage
 
-To run the code you just have to download the [FI-2010 dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data) and to change the data path, then the notebook will do the rest, including the training and testing.
+To run the code you just have to download the [FI-2010 dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data) and change the data path, then the notebook will do the rest, including the training and testing.
